@@ -1,5 +1,4 @@
 # Database---MongoDB
-Mongo DB chubb works
 Q1)
 IMDB
 Design a DB for IMDB
